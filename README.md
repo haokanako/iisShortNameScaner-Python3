@@ -1,8 +1,7 @@
 # iisScaner
 
-![iisShortNameScaner](https://socialify.git.ci/VMsec/iisShortNameScaner/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
-
-
+![iisShortNameScaner](https://socialify.git.ci/haokanako/iisShortNameScaner-Python3/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
+![test](https://raw.githubusercontent.com/haokanako/iisShortNameScaner-Python3/main/IMAGE%202023-11-07%2021:57:21.jpg)
 ## iisScanIIS10_Exp.py
 
 IIS短文件名漏洞实际利用脚本，原版本为PYTHON2，被我修改成python3版本 并增加了定义线程数和输出文件
